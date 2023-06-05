@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+    width: 0;
+}
+
+.collapse.show {
+    visibility: visible;
+}
+
+.accordion-button {
+    font-size: 1.2rem;
+}
