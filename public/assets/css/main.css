@@ -1,11 +1,12 @@
-::-webkit-scrollbar {
-    width: 0;
-}
-
 .collapse.show {
     visibility: visible;
 }
 
-.accordion-button {
-    font-size: 1.2rem;
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background: #1D2330;
 }
