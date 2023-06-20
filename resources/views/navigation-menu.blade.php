@@ -19,6 +19,10 @@
                     <x-nav-link href="{{ route('payment') }}" :active="request()->routeIs('payment')">
                         {{ __('Payment') }}
                     </x-nav-link>
+
+                    <x-nav-link href="{{ route('welcome') }}" :active="request()->routeIs('welcome')">
+                        {{ __('Welcome') }}
+                    </x-nav-link>
                 </div>
             </div>
 

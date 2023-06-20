@@ -7,7 +7,8 @@
                 BTC WALLET
             </button>
         </h2>
-        <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+        <div id="flush-collapseOne" class="bg-white accordion-collapse collapse"
+            data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
                 <p class="my-2">
                     <span class="my-2">WALLET ADRESS</span><br>
@@ -26,7 +27,8 @@
                 LTC WALLET
             </button>
         </h2>
-        <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+        <div id="flush-collapseTwo" class="bg-white accordion-collapse collapse"
+            data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
                 <p class="my-2">
                     <span class="my-2">WALLET ADRESS</span><br>
